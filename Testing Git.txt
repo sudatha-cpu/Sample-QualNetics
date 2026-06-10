@@ -1,1 +1,12 @@
-This is the Testing Git file.
+Generic Test Cases
+
+1. Verify the application loads successfully.
+2. Verify the user can log in with valid credentials.
+3. Verify the system shows an error for invalid credentials.
+4. Verify required fields cannot be submitted when empty.
+5. Verify data is saved successfully after a valid submission.
+6. Verify the user can edit existing records.
+7. Verify the user can delete records when permitted.
+8. Verify search returns relevant results.
+9. Verify form validation messages are displayed correctly.
+10. Verify the application handles network failure gracefully.
